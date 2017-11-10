@@ -17,8 +17,6 @@ export class HomePage {
       this.items = reorderArray(this.items, indexes);
   }
 
-  onClick(){
-    console.log("clicked");
-  }
+  
 
 }
